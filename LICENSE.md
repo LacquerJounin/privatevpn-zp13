@@ -1,4 +1,4 @@
-
+vip OVPN Addon | streaming-optimization + auto-connect is the best OVPN addon, featuring streaming-optimization and auto-connect. Secure, fast, and optimized for privacy.
 
 
 
